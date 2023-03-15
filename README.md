@@ -2,7 +2,6 @@
 
 - 🖥️ I’m currently studying on UEM;
 - 🌱 I’m currently learning React Native;
-- 😄 Pronouns: He/him;
 - 🌎 Nationality: Brazilian;
 - 🗣️ Languages: Portuguese and English;
 
