@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Gabriel Biscaia 👋</h1>
 
 - 🖥️ I’m currently studying on UEM;
-- 🌱 I’m currently learning React Native;
+- 🌱 I’m currently learning how to use threads;
 - 🌎 Nationality: Brazilian;
 - 🗣️ Languages: Portuguese and English;
 
