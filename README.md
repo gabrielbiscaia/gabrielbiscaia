@@ -19,6 +19,5 @@
 <h2>GitHub's Stats</h2>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielbiscaia&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbiscaia&layout=compact&langs_count=6&theme=react&hide=TSQL,jupyter%20notebook"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbiscaia&layout=compact&langs_count=6&theme=react&hide=TSQL,jupyter%20notebook"/>
 </div>
