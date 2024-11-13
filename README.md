@@ -17,9 +17,9 @@
 
 
 <h2>GitHub's Stats</h2>
-<div>
-  <img width="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbiscaia&hide=html&layout=compact&theme=vision-friendly-dark" />
-  <img width="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielbiscaia&theme=vision-friendly-dark"/>
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbiscaia&hide=html&layout=compact&theme=vision-friendly-dark" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=gabrielbiscaia&theme=vision-friendly-dark"/>
 </div>   
   
  
