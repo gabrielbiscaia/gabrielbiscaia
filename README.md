@@ -8,9 +8,9 @@
 <h2>Main Programming Stack</h2>
 <div align="center"><br>
   <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </div>
 
