@@ -1,24 +1,46 @@
-<h1>I'm Gabriel Biscaia and welcome to my profile!</h1>
-<ul>
-  <li>🎓 Degree: Bachelor's degree in Computer Science from Universidade Estadual de Maringá;</li>
-  <li>🌎 Nationality: Brazilian;</li>
-  <li>🗣️ Languages: Portuguese and English;</li>
-</ul>
+### Hi, I'm Gabriel 👋
 
-<h2>Main Programming Stack</h2>
-<div align="center"><br>
-  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img hspace="8" align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-</div>
+Full-Stack Software Engineer focused on building web and mobile products, using AI-native and agentic development workflows with tools like Claude Code.
 
+🇧🇷 Based in Maringá, Brazil — working remotely with international teams.
 
-<h2>GitHub's Stats</h2>
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbiscaia&hide=html&layout=compact&theme=swift" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=gabrielbiscaia&theme=swift"/>
-</div>   
-  
- 
+---
+
+### Tech Stack
+
+**Languages**  
+TypeScript · JavaScript · Swift · Python
+
+**Frontend**  
+React · Next.js · Vite · TailwindCSS · Storybook
+
+**Mobile**  
+React Native · Expo · SwiftUI
+
+**Backend**  
+Node.js · NestJS · REST APIs · Python · Flask · FastAPI
+
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Supabase · Prisma
+
+**AI & Automation**  
+Claude Code · MCP · Vercel AI SDK · OpenAI API · n8n
+
+**DevOps & Cloud**  
+Docker · Git · Vercel · Firebase · Google Cloud
+
+---
+
+### GitHub Stats
+
+<a href="https://github.com/gabrielbiscaia">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=gabrielbiscaia&show_icons=true&theme=swift&hide_border=true&count_private=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbiscaia&layout=compact&theme=swift&hide_border=true&hide=html,css" />
+</a>
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielbiscaia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://gabrielbiscaia.com.br)
