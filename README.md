@@ -1,8 +1,8 @@
 ### Hi, I'm Gabriel 👋
 
-Full-Stack Software Engineer focused on building web and mobile products, using AI-native and agentic development workflows with tools like Claude Code.
+Software Engineer focused on building web and mobile products, using AI-native and agentic development workflows with tools like Claude Code.
 
-🇧🇷 Based in Maringá, Brazil — working remotely with international teams.
+🇧🇷 Based in Maringá, Brazil
 
 ---
 
